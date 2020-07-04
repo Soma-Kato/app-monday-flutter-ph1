@@ -1,11 +1,14 @@
 # Flutter
 ## Flutter is 何？
 FlutterはGoogleによって開発されたUI ツールキット。（昔はモバイルAppSDKと謳っていた）
+
 ```
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 （Flutter は、単一のコードからmobile、web、desktop向けにネイティブにコンパイルされた美しいアプリケーションを構築するための Google の UI ツールキットです。）
 ```
+
+---
 
 ## 利点
 Googleは以下の３つを利点としてあげています。
